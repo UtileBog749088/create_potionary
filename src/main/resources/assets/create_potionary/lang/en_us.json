@@ -1,0 +1,24 @@
+{
+  "fluid.create_potionary.berries_juice_fluid": "Berry Juice",
+  "block.create_potionary.berries_juice_fluid_block": "Berry Juice",
+  "item.create_potionary.berries_juice_fluid_bucket": "Berry Juice Bucket",
+  "item.create_potionary.berries_juice": "Berry Juice",
+
+  "fluid.create_potionary.apple_juice_fluid": "Apple Juice",
+  "block.create_potionary.apple_juice_fluid_block": "Apple Juice",
+  "item.create_potionary.apple_juice_fluid_bucket": "Apple Juice Bucket",
+  "item.create_potionary.apple_juice": "Apple Juice",
+
+  "fluid.create_potionary.golden_apple_juice_fluid": "Golden Apple Juice",
+  "block.create_potionary.golden_apple_juice_fluid_block": "Golden Apple Juice",
+  "item.create_potionary.golden_apple_juice_fluid_bucket": "Golden Apple Juice Bucket",
+  "item.create_potionary.golden_apple_juice": "Golden Apple Juice",
+
+  "fluid.create_potionary.green_tea_fluid": "Green Tea",
+  "block.create_potionary.green_tea_fluid_block": "Green Tea",
+  "item.create_potionary.green_tea_fluid_bucket": "Green Tea Bucket",
+  "item.create_potionary.green_tea": "Green Tea",
+  "item.create_potionary.green_tea_leaf": "Green Tea Leaf",
+
+  "creativetab.create_potionary_tab": "Create Potionary"
+}

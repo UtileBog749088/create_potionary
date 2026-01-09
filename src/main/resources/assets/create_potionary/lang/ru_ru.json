@@ -1,0 +1,24 @@
+{
+  "fluid.create_potionary.berries_juice_fluid": "Ягодный Сок",
+  "block.create_potionary.berries_juice_fluid_block": "Ягодный Сок",
+  "item.create_potionary.berries_juice_fluid_bucket": "Ведро Ягодного Сока",
+  "item.create_potionary.berries_juice": "Ягодный Сок",
+
+  "fluid.create_potionary.apple_juice_fluid": "Яблочный Сок",
+  "block.create_potionary.apple_juice_fluid_block": "Яблочный Сок",
+  "item.create_potionary.apple_juice_fluid_bucket": "Ведро Яблочного Сока",
+  "item.create_potionary.apple_juice": "Яблочный Сок",
+
+  "fluid.create_potionary.golden_apple_juice_fluid": "Сок из Золотого Яблока",
+  "block.create_potionary.golden_apple_juice_fluid_block": "Сок из Золотого Яблока",
+  "item.create_potionary.golden_apple_juice_fluid_bucket": "Ведро с Соком из Золотого яблока",
+  "item.create_potionary.golden_apple_juice": "Сок из Золотого Яблока",
+
+  "fluid.create_potionary.green_tea_fluid": "Зеленый Чай",
+  "block.create_potionary.green_tea_fluid_block": "Зеленый Чай",
+  "item.create_potionary.green_tea_fluid_bucket": "Ведро с Зеленым Чаем",
+  "item.create_potionary.green_tea": "Зеленый Чай",
+  "item.create_potionary.green_tea_leaf": "Зеленый Чайный Лист",
+
+  "creativetab.create_potionary_tab": "Create Potionary"
+}
